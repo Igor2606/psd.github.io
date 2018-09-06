@@ -1,2 +1,0 @@
-# psd.github.io
-PSD
